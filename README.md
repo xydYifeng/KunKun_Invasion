@@ -6,5 +6,5 @@
 5.对游戏进行打包，可以直接解压运行。
 
 运行方式
-代码版需下载库运行kunkun_invasion.py文件。
+代码版需下载所需库并运行kunkun_invasion.py。
 exe版可以直接解压运行。
